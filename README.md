@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">An passionate software engineer with a experience in Backend development and Machine Learning</h3>
 
-- 🔭 I’m currently work as an **ML Researcher at Data to Insights Center, Indiana University**
+- 🔭 I am an **ML Researcher at Data to Insights Center, Indiana University**
 
 - 🌱 I’m currently learning about **Large Language Models and Knowledge Graphs**
 
